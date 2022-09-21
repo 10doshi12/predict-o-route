@@ -1,0 +1,207 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+  background-size: fill;
+}
+
+.home,
+.schedule,
+.products,
+.sign-up {
+  height: 90vh;
+  align-items: left;
+  justify-content: top;
+  font-size: 2rem;
+}
+
+.schedule {
+  background-color: #27292c;
+  padding-left: 10px;
+  color: white;
+  font-size: 25px;
+  font-family: ExtraBold Italic;
+}
+
+.schedule h1 {
+  font-size: 40px;
+  padding-left: 50px;
+  font-family: ExtraBold Italic;
+  color: white;
+}
+
+.schedule-day {
+  font-size: 40px;
+  font-family: ExtraBold Italic;
+  color: white;
+  padding-left: 50px;
+}
+
+.status-container{
+  position: relative;
+  align-items: top;
+  width: 100%;
+  height: 5%;
+  background-color: #93E5FF;
+}
+
+.schedule-label {
+  font-size: 30px;
+  padding-left: 50px;
+  font-family: ExtraBold Italic;
+  color: white;
+}
+
+.schedule-inputx{
+  font-size: 30px;
+  padding-left: 150px;
+  font-family: ExtraBold Italic;
+  color: white;
+}
+
+.schedule-input{
+  font-size: 30px;
+  padding-left: 100px;
+  font-family: ExtraBold Italic;
+  color: white;
+}
+
+.i1 {
+  font-size: 30px;
+  padding-left: 150px;
+  font-family: ExtraBold Italic;
+  color: white;
+}
+
+.i5log {
+  font-size: 17px;
+  padding-left: 10px;
+  padding-bottom: 200px;
+  font-family: ExtraBold Italic;
+  width: 150px;
+  color: rgb(0, 0, 0);
+}
+.i6 {
+  font-size: 30px;
+  padding-left: 20px;
+  font-family: ExtraBold Italic;
+  color: white;
+}
+
+.i2 {
+  font-size: 30px;
+  padding-left: 50px;
+  font-family: ExtraBold Italic;
+  width: 120px;
+  color: rgb(11, 11, 11);
+}
+
+.i3 {
+  font-size: 30px;
+  padding-left: 10px;
+  font-family: ExtraBold Italic;
+  width: 80px;
+  color: rgb(11, 11, 11);
+}
+
+.i4 {
+  font-size: 30px;
+  padding-left: 230px;
+  font-family: ExtraBold Italic;
+  width: 30px;
+  color: rgb(255, 255, 255);
+}
+
+.i5 {
+  font-size: 17px;
+  padding-left: 15px;
+  font-family: ExtraBold Italic;
+  width: 150px;
+  color: rgb(0, 0, 0);
+}
+
+.schedule-container {
+  justify-content: left;
+  align-items: top;
+  padding-left: 10px;
+  height: 100%;
+  width: 100%;
+}
+
+.schedule-box {
+  padding-left: 10px;
+  color: white;
+  font-size: 25px;
+  font-family: ExtraBold Italic;
+}
+
+/* .products {
+  background-image: url('/images/img-1.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+} */
+
+.sign-up {
+
+  padding-left: 41.2%;
+  font-size: 35px;
+  color: #fff;
+}
+
+.i7{
+  font-size: 25px;
+  align-items: center;
+  font-family: ExtraBold;
+  color: rgb(0, 0, 0);
+}
+
+.i8{
+  font-size: 25px;
+  align-items: center;
+  width: 150px;
+  font-family: ExtraBold;
+  color: rgb(0, 0, 0);
+}
+
+.i9{
+  font-size: 15px;
+  justify-content: left;
+  font-family: ExtraBold;
+  color: rgb(0, 0, 0);
+  background-color: red;
+}
+
+.i10{
+  font-size: 15px;
+  justify-content: left;
+  font-family: ExtraBold;
+  color: rgb(0, 0, 0);
+  background-color: rgb(0, 255, 81);
+}
+
+.mapbox{
+  width: 99%;
+  height: 60%;
+  padding-right: 100px;
+  background-color: rgb(0, 0, 0);
+  background-image: url('/images/map.jpg');
+}
+
+.travelbox{
+  width: 99%;
+  height: 10%;
+  padding-right: 100px;
+  background-color: rgb(0, 0, 0);
+  /* background-image: url('/images/travel.png'); */
+}
+
+.headi{
+  font-size: 40px;
+  padding-left: 50px;
+  font-family: ExtraBold;
+  color: white;
+}
