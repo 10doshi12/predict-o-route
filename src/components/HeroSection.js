@@ -19,9 +19,6 @@ function HeroSection() {
         >
           GET STARTED
         </Button>
-        <Link to='/sign-up'>
-          <Button>DashBoard</Button>
-        </Link>
       </div>
     </div>
   );
